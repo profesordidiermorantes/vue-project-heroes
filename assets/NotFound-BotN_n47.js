@@ -1,0 +1,1 @@
+import{_ as o,o as e,c as n,b as s}from"./index-BDCUvSLS.js";const c={data(){return{titulo:"COMPONENTE NO ENCONTRADO. ERROR 404 NOT FOUND."}}},r={id:"divNotFound"},a=["innerHTML"];function d(_,i,u,N,t,p){return e(),n("div",r,[s("h1",{innerHTML:t.titulo},null,8,a)])}const l=o(c,[["render",d],["__scopeId","data-v-b8dfbf7b"]]);export{l as default};
